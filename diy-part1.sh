@@ -41,7 +41,7 @@ git clone https://github.com/kiddin9/openwrt-packages/trunk/luci-theme-edge pack
 #定时重启
 #git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
 # 定时关机重启
-git clone https://github.com/kiddin9/openwrt-packages/trunk/luci-app-autotimeset.git package/luci-app-autotimeset
+git clone https://github.com/kiddin9/openwrt-packages/trunk/luci-app-autotimeset package/luci-app-autotimeset
 
 #ttyd lede包已有
 
