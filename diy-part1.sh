@@ -57,7 +57,7 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 
 # 服务
  #uhttpd
-git clone https://github.com/openwrt/luci/tree/master/applications/luci-app-uhttpd
+git clone https://github.com/openwrt/luci/tree/master/applications/luci-app-uhttpd.git
 
 #docker
 #git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
