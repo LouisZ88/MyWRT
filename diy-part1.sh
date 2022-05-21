@@ -53,9 +53,6 @@ git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dock
 #  关机
 git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
 
-# 定时关机重启
-git clone https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-autotimeset.git package/luci-app-autotimeset
-
 ##############################################################################################
 
 # 服务
