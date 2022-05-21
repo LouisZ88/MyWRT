@@ -18,7 +18,7 @@ sed -i 's/Openwrt/MyWRT/g' package/base-files/files/bin/config_generate
 # 2.清除默认密码/改密码为 
 sed -i 's@.*CYXluq4wUazHjmCDBCqXF*@#&@g' package/lean/default-settings/files/zzz-default-settings
 # 修改版本号
-sed -i 's/Openwrt/Louis's Home Edition /g' package/lean/default-settings/files/zzz-default-settings
+sed -i 's/Openwrt/LouisWRT/g' package/lean/default-settings/files/zzz-default-settings
 
 # 5.修改默认主题
 sed -i 's/luci-theme-bootstrap/luci-theme-neobird/g' feeds/luci/collections/luci/Makefile
