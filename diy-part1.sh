@@ -22,6 +22,7 @@
 
 # 主题
 git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-argonne
+git clone https://github.com/thinktip/luci-theme-neobird
 
 ##############################################################################################
 
