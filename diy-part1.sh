@@ -23,6 +23,7 @@
 # 主题
 git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-argonne
 git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-neobird
+git clone https://github.com/kiddin9/openwrt-packages/tree/master/luci-theme-edge.git package/luci-theme-edge
 
 ##############################################################################################
 
