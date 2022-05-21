@@ -83,18 +83,17 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
 ##############################################################################################
-
 # NAS
 
 #文件助手
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
-
 ##############################################################################################
-
 # 网络
-
 #Turbo ACC 加速 lede包已有
+
 #测速
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest package/luci-app-netspeedtest
 
 ##############################################################################################
+# DDNSto
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-ddnsto.git package/luci-app-ddnsto
