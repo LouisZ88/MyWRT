@@ -39,8 +39,6 @@ git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-
 
 #定时重启
 #git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
-# 定时关机重启
-git clone https://github.com/kiddin9/openwrt-packages/trunk/luci-app-autotimeset package/luci-app-autotimeset
 
 #ttyd lede包已有
 
@@ -55,8 +53,6 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 ##############################################################################################
 
 # 服务
- #uhttpd
-git clone https://github.com/openwrt/luci/tree/master/applications/luci-app-uhttpd.git
 
 #docker
 #git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
