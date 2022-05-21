@@ -99,6 +99,7 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest p
 ##############################################################################################
 # DDNSto
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddnsto package/luci-app-ddnsto
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
 
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddns package/luci-app-ddns
 
