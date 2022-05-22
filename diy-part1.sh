@@ -97,9 +97,9 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
 ##############################################################################################
 # DDNS
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddns package/luci-app-ddns
-svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts package/ddns-scripts
-svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts-dnspod package/ddns-scripts-dnspod
-svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts-aliyun package/ddns-scripts-aliyun
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts package/ddns-scripts
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-dnspod package/ddns-scripts-dnspod
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-aliyun package/ddns-scripts-aliyun
 ##############################################################################################
 # AliyunDrive
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-webdav package/luci-app-aliyundrive-webdav
