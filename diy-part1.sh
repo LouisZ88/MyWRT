@@ -87,20 +87,19 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 ##############################################################################################
 # 网络
 #Turbo ACC 加速 lede包已有
-
+##############################################################################################
 #测速
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest package/luci-app-netspeedtest
-
 ##############################################################################################
 # DDNSto
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddnsto package/luci-app-ddnsto
 svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
-
-
+##############################################################################################
+# DDNS
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddns package/luci-app-ddns
-
 svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts package/ddns-scripts
-svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts-dnspod package/ddnsto
-svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts-aliyun package/ddnsto
-
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts-dnspod package/ddns-scripts-dnspod
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts-aliyun package/ddns-scripts-aliyun
+##############################################################################################
+# AliyunDrive
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-webdav package/luci-app-aliyundrive-webdav
