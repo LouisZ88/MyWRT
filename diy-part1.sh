@@ -96,6 +96,11 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest p
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddnsto package/luci-app-ddnsto
 svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
 
+
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddns package/luci-app-ddns
+
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts package/ddns-scripts
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts-dnspod package/ddnsto
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/ddns-scripts-aliyun package/ddnsto
 
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-webdav package/luci-app-aliyundrive-webdav
