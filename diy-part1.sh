@@ -110,3 +110,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-acme package/l
 # MWANHelper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mwan3helper package/luci-app-mwan3helper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/mwan3 package/mwan3
+#iStore
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-store package/luci-app-store
