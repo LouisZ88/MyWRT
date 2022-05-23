@@ -107,5 +107,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-we
 svn co https://github.com/kiddin9/openwrt-packages/trunk//shortcut-fe/shortcut-fe package/shortcut-fe
 # ACME
 svn co https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-acme package/luci-app-acme
-
-
+# MWANHelper
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-mwan3helper package/luci-app-mwan3helper
