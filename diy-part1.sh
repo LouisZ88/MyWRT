@@ -109,3 +109,4 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk//shortcut-fe/shortcut-f
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-acme package/luci-app-acme
 # MWANHelper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mwan3helper package/luci-app-mwan3helper
+svn co https://github.com/kiddin9/openwrt-packages/trunk/mwan3 package/mwan3
