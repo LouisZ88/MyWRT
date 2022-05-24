@@ -97,9 +97,9 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
 ##############################################################################################
 # DDNS
 # svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddns package/luci-app-ddns
-# svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts package/ddns-scripts
-# svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-dnspod package/ddns-scripts-dnspod
-# svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-aliyun package/ddns-scripts-aliyun
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts package/ddns-scripts
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-dnspod package/ddns-scripts-dnspod
+svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-aliyun package/ddns-scripts-aliyun
 ##############################################################################################
 # AliyunDrive
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-webdav package/luci-app-aliyundrive-webdav
@@ -111,6 +111,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-acme package/l
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mwan3helper package/luci-app-mwan3helper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/mwan3 package/mwan3
 #iStore
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-store package/luci-app-store
+# svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-store package/luci-app-store
 # Duobo
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-syncdial package/luci-app-syncdial
