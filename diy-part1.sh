@@ -112,3 +112,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mwan3helper pa
 svn co https://github.com/kiddin9/openwrt-packages/trunk/mwan3 package/mwan3
 #iStore
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-store package/luci-app-store
+# Duobo
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-syncdial package/luci-app-syncdial
