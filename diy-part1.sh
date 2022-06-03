@@ -104,7 +104,7 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
 # AliyunDrive
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-webdav package/luci-app-aliyundrive-webdav
 # Shortcut-fe
-svn co https://github.com/kiddin9/openwrt-packages/trunk//shortcut-fe/shortcut-fe package/shortcut-fe
+svn co https://github.com/kiddin9/openwrt-packages/trunk/shortcut-fe/shortcut-fe package/shortcut-fe
 # ACME
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-acme package/luci-app-acme
 # MWANHelper
@@ -118,4 +118,4 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-syncdial packa
 svn co https://github.com/kiddin9/openwrt-packages/trunk/nps package/nps
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-nps package/luci-app-nps
 #webcontrol
-#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
