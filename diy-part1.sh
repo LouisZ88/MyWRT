@@ -114,3 +114,8 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/mwan3 package/mwan3
 # svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-store package/luci-app-store
 # Duobo
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-syncdial package/luci-app-syncdial
+# NPS
+svn co https://github.com/kiddin9/openwrt-packages/trunk/nps package/nps
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-nps package/luci-app-nps
+#webcontrol
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
