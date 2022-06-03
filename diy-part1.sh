@@ -118,4 +118,4 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-syncdial packa
 svn co https://github.com/kiddin9/openwrt-packages/trunk/nps package/nps
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-nps package/luci-app-nps
 #webcontrol
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
+#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
