@@ -43,7 +43,7 @@ git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-
 #ttyd lede包已有
 
 #磁盘管理
-git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+#git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
 #文件传输 lede包已有
 
@@ -55,7 +55,7 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 # 服务
 
 #docker
-#git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
 #ShadowSocksR Plus+
 git clone https://github.com/fw876/helloworld.git package/helloworld
