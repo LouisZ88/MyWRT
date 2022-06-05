@@ -21,7 +21,7 @@
 ##############################################################################################
 
 # 主题
-# git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-neobird
 
 ##############################################################################################
