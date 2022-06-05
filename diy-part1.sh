@@ -21,7 +21,7 @@
 ##############################################################################################
 
 # 主题
-git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
+# git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-neobird
 
 ##############################################################################################
@@ -119,3 +119,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/nps package/nps
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-nps package/luci-app-nps
 #webcontrol
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
+# Edge Theme
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/luci-theme-edge package/luci-theme-edge
