@@ -120,4 +120,4 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-nps package/lu
 #webcontrol
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
 # Edge Theme
-svn co https://github.com/kiddin9/openwrt-packages/tree/master/luci-theme-edge package/luci-theme-edge
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-theme-edge package/luci-theme-edge
