@@ -122,5 +122,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl
 #Openvpn server
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server package/luci-app-openvpn-server
 #IPTV related
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-iptvhelper package/luci-app-iptvhelper
+#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
+#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-iptvhelper package/luci-app-iptvhelper
