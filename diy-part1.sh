@@ -125,7 +125,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server
 #IPTV related
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-iptvhelper package/luci-app-iptvhelper
-#Edge Theme
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-theme-edge package/luci-theme-edge
 
 
