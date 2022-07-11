@@ -41,7 +41,9 @@ git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-
 #定时重启
 #git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
 
-#ttyd lede包已有
+#ttyd
+
+git clone https://github.com/tsl0922/ttyd.git package/ttyd
 
 #磁盘管理
 #git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
