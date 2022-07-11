@@ -86,9 +86,6 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci
 #文件助手
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
 ##############################################################################################
-# 网络
-#Turbo ACC 加速 lede包已有
-##############################################################################################
 #测速
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest package/luci-app-netspeedtest
 ##############################################################################################
@@ -96,18 +93,10 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest p
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddnsto package/luci-app-ddnsto
 svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
 ##############################################################################################
-# DDNS
-# svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddns package/luci-app-ddns
-# svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts package/ddns-scripts
-# svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-dnspod package/ddns-scripts-dnspod
-# svn co https://github.com/kiddin9/openwrt-packages/trunk/ddns-scripts-aliyun package/ddns-scripts-aliyun
-##############################################################################################
 # AliyunDrive
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-webdav package/luci-app-aliyundrive-webdav
 # Shortcut-fe
 svn co https://github.com/kiddin9/openwrt-packages/trunk/shortcut-fe/shortcut-fe package/shortcut-fe
-# ACME
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-acme package/luci-app-acme
 # MWANHelper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mwan3helper package/luci-app-mwan3helper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/mwan3 package/mwan3
