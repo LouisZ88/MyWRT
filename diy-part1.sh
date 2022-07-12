@@ -120,3 +120,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server
 #Shortcut-fe
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-turboacc package/luci-app-turboacc
 
+#mosdns
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mosdns package/luci-app-mosdns
