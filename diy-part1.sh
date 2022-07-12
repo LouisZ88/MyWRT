@@ -117,4 +117,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-iptvhelper package/luci-app-iptvhelper
 
+#Shortcut-fe
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-turboacc package/luci-app-turboacc
 
