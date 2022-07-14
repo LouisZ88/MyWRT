@@ -42,7 +42,6 @@ git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-
 #git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
 
 #ttyd
-
 git clone https://github.com/tsl0922/ttyd.git package/ttyd
 
 #磁盘管理
@@ -78,13 +77,10 @@ git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-pas
 
 #openclash
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
-
 #luci-app-adguardhome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
-
 ##############################################################################################
 # NAS
-
 #文件助手
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
 ##############################################################################################
@@ -99,11 +95,12 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-webdav package/luci-app-aliyundrive-webdav
 # Shortcut-fe
 svn co https://github.com/kiddin9/openwrt-packages/trunk/shortcut-fe/shortcut-fe package/shortcut-fe
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-turboacc package/luci-app-turboacc
 # MWANHelper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mwan3helper package/luci-app-mwan3helper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/mwan3 package/mwan3
 #iStore
-#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-store package/luci-app-store
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-store package/luci-app-store
 # Duobo
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-syncdial package/luci-app-syncdial
 # NPS
@@ -116,9 +113,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server
 #IPTV related
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-iptvhelper package/luci-app-iptvhelper
-
-#Shortcut-fe
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-turboacc package/luci-app-turboacc
-
 #mosdns
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mosdns package/luci-app-mosdns
