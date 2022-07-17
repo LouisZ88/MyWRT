@@ -93,9 +93,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/ddnsto package/ddnsto
 ##############################################################################################
 # AliyunDrive
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-aliyundrive-webdav package/luci-app-aliyundrive-webdav
-# Shortcut-fe
-svn co https://github.com/kiddin9/openwrt-packages/trunk/shortcut-fe/shortcut-fe package/shortcut-fe
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-turboacc package/luci-app-turboacc
 # MWANHelper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mwan3helper package/luci-app-mwan3helper
 svn co https://github.com/kiddin9/openwrt-packages/trunk/mwan3 package/mwan3
