@@ -39,7 +39,7 @@ git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-
 #  系统
 
 #定时重启
-#git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
+git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
 
 #ttyd
 git clone https://github.com/tsl0922/ttyd.git package/ttyd
