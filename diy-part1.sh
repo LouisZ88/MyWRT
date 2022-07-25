@@ -110,5 +110,3 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server
 #IPTV related
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
 #svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-iptvhelper package/luci-app-iptvhelper
-#mosdns
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mosdns package/luci-app-mosdns
