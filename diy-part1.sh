@@ -107,4 +107,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-nps package/lu
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
 #Openvpn server
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server package/luci-app-openvpn-server
-
+#MOSDNS
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mosdns package/luci-app-mosdns
