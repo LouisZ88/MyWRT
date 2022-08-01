@@ -60,7 +60,7 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
 #ShadowSocksR Plus+
-git clone https://github.com/fw876/helloworld.git package/helloworld
+#git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #passwall
 #git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
@@ -75,10 +75,10 @@ git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-pas
 #git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 #git clone https://github.com/fw876/helloworld.git package/helloworld
 
-#openclash
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+openclash
+#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #luci-app-adguardhome
-git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+#git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 ##############################################################################################
 # NAS
 #文件助手
@@ -107,6 +107,4 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-nps package/lu
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
 #Openvpn server
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server package/luci-app-openvpn-server
-#IPTV related
-#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
-#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-iptvhelper package/luci-app-iptvhelper
+
