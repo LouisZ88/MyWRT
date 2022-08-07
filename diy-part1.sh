@@ -76,9 +76,9 @@ git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-pas
 #git clone https://github.com/fw876/helloworld.git package/helloworld
 
 openclash
-#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #luci-app-adguardhome
-#git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 ##############################################################################################
 # NAS
 #文件助手
