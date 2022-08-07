@@ -111,3 +111,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-openvpn-server
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-mosdns package/luci-app-mosdns
 #DNSFilter
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-dnsfilter package/luci-app-dnsfilter
+#Alist
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-alist package/luci-app-alist
